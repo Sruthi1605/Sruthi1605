@@ -34,6 +34,10 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/sruthi g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sruthi g" height="30" width="40" /></a>
+</p>
 
 <p align="center">
   <a href="https://visitcount.itsvg.in/api?id=Sruthi1605&icon=1&color=0">
