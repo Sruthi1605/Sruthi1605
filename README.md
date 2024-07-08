@@ -15,7 +15,7 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
 ## GitHub Stats and Coding GIF
 
 <p>
-  <img align="center" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+  <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sruthi1605&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
