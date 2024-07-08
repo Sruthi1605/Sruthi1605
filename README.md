@@ -2,7 +2,6 @@
 
 Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing in Computer Science and Engineering at the esteemed Madras Institute of Technology. I'm driven by a deep interest in technology and a commitment to learning and innovation.
 
-
 ## Languages and Tools
 
 <p align="left">
@@ -13,9 +12,11 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
 </p>
 
-## GitHub Stats
-<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+## GitHub Stats and Coding GIF
 
+<p>
+  <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+</p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sruthi1605&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 <br/>
