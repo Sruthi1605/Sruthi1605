@@ -13,7 +13,7 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
 </p>
 
-## GitHub Stats and Coding GIF
+## Statistics
 
 <p>
   <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
