@@ -1,5 +1,4 @@
 # About Me
-
 Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing in Computer Science and Engineering at the esteemed Madras Institute of Technology. I'm driven by a deep interest in technology and a commitment to learning and innovation.
 
 ## Languages and Tools
@@ -7,9 +6,11 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40">
+  
+  <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="40" height="40">
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="html" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
 </p>
 
 ## GitHub Stats and Coding GIF
