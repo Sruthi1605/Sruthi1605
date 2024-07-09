@@ -19,25 +19,26 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
   <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sruthi1605&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-<br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sruthi1605&theme=dark&hide_border=false)
-<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sruthi1605&theme=dark&hide_border=false&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sruthi1605&show_icons=true&locale=en&layout=compact" alt="sruthi1605" /></p>
 
-## GitHub Trophies
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sruthi1605&show_icons=true&locale=en" alt="sruthi1605" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sruthi1605&" alt="sruthi1605" /></p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sruthi1605&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.hackerrank.com/sruthiganesh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sruthiganesh05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/srug_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srug_05" height="30" width="40" /></a>
+</p>
+
+## Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sruthi1605" alt="sruthi1605" /></a> </p>
 
 ## Quote
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/sruthiganesh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sruthi g" height="30" width="40" /></a>
-</p>
+
 
 <p align="center">
   <a href="https://visitcount.itsvg.in/api?id=Sruthi1605&icon=1&color=0">
