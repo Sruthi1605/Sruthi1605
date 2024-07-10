@@ -1,10 +1,14 @@
-<h1 align="center">About Me</h1>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Researcher&size=30&center=true&vCenter=true&width=500&height=100&color=08CBC0&duration=3000&lines=About+me;About+me;About+me;About+me;About+me;" alt="Typing Animation" />
+</h3>
 Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing in Computer Science and Engineering at the esteemed Madras Institute of Technology. I'm driven by a deep interest in technology and a commitment to learning and innovation.
 
  
-<h1 align="center">Languages and Tools</h1>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Researcher&size=30&center=true&vCenter=true&width=500&height=100&color=08CBC0&duration=3000&lines=Languages+and+Tools;Languages+and+Tools;Languages+and+Tools;Languages+and+Tools;" alt="Typing Animation" />
+</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
@@ -12,10 +16,14 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="40" height="40">
   <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000" alt="html" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40">
+
 </p>
 
  
-<h1 align="center">Statistics</h1>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Researcher&size=30&center=true&vCenter=true&width=500&height=100&color=08CBC0&duration=3000&lines=Statistics;Statistics;Statistics;Statistics;" alt="Typing Animation" />
+</h3>
 <p>
   <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 </p>
@@ -24,8 +32,17 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sruthi1605&show_icons=true&locale=en" alt="sruthi1605" /></p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Researcher&size=30&center=true&vCenter=true&width=500&height=100&color=08CBC0&duration=3000&lines=Trophies;Trophies;Trophies;" alt="Typing Animation" />
+</h3> 
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sruthi1605" alt="sruthi1605" /></a> </p>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Researcher&size=30&center=true&vCenter=true&width=500&height=100&color=08CBC0&duration=3000&lines=Connect+with+me!;Connect+with+me!;Connect+with+me!;" alt="Typing Animation" />
+</h3> 
+<p align="center">
   <a href="mailto:sruthiganesh05@gmail.com" target="blank" style="display: inline-block;">
     <img align="left" src="https://cdn-icons-png.flaticon.com/128/10829/10829119.png" height="30" alt="gmail logo" />
   </a>
@@ -37,21 +54,18 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
   </a>
 </p>
 
+<br>
 
- 
-<h1 align="center">Trophies</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sruthi1605" alt="sruthi1605" /></a> </p>
-
-
-<h1 align="center">Quote</h1>
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
+<h3 align="center">Visitor Count</h3>
+<div align="center" style="background-color: #2ecc71; width: 200px; height: 100px; border-radius: 10px; display: flex; justify-content: center; align-items: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden;">
+  <div style="position: relative; width: 120px; height: 80px; overflow: hidden; border-radius: 50%; background-color: #ffffff;">
+    <img src="https://profile-counter.glitch.me/sruthi1605/count.svg" alt="Visitor Count" style="width: 20%; height: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" />
+  </div>
+</div>
 
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=Sruthi1605&icon=1&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=Sruthi1605&icon=1&color=0" alt="Visitor Count" />
-  </a>
-</p>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Researcher&size=30&center=true&vCenter=true&width=500&height=70&color=00FFFF&duration=3000&lines=Thanks+for+visiting!;" alt="Typing Animation" />
+</h3>
+
+
