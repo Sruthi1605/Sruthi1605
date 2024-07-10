@@ -56,7 +56,7 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
 
 <br>
 
-<h3 align="center">Visitor Count</h3>
+<h3 align="center">Profile Views</h3>
 <div align="center" style="background-color: #2ecc71; width: 200px; height: 100px; border-radius: 10px; display: flex; justify-content: center; align-items: center; box-shadow: 0 4px 8px rgba(0,0,0,0.2); overflow: hidden;">
   <div style="position: relative; width: 120px; height: 80px; overflow: hidden; border-radius: 50%; background-color: #ffffff;">
     <img src="https://profile-counter.glitch.me/sruthi1605/count.svg" alt="Visitor Count" style="width: 20%; height: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" />
