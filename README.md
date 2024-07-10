@@ -1,7 +1,8 @@
-# About Me
+<h1 align="center">About Me</h1>
 Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing in Computer Science and Engineering at the esteemed Madras Institute of Technology. I'm driven by a deep interest in technology and a commitment to learning and innovation.
 
-## Languages and Tools
+ 
+<h1 align="center">Languages and Tools</h1>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
@@ -13,8 +14,8 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
 </p>
 
-## Statistics
-
+ 
+<h1 align="center">Statistics</h1>
 <p>
   <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 </p>
@@ -22,18 +23,27 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sruthi1605&show_icons=true&locale=en&layout=compact" alt="sruthi1605" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sruthi1605&show_icons=true&locale=en" alt="sruthi1605" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sruthi1605&" alt="sruthi1605" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.hackerrank.com/sruthiganesh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sruthiganesh05" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srug_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srug_05" height="30" width="40" /></a>
+  <a href="mailto:sruthiganesh05@gmail.com" target="blank" style="display: inline-block;">
+    <img src="https://cdn-icons-png.flaticon.com/128/10829/10829119.png" height="30" alt="gmail logo" />
+  </a>
+  <a href="https://www.hackerrank.com/sruthiganesh05" target="blank" style="display: inline-block;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sruthiganesh05" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/srug_05" target="blank" style="display: inline-block;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srug_05" height="30" width="40" />
+  </a>
 </p>
 
-## Trophies
+
+ 
+<h1 align="center">Trophies</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sruthi1605" alt="sruthi1605" /></a> </p>
 
-## Quote
+
+<h1 align="center">Quote</h1>
 
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
