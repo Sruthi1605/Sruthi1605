@@ -27,13 +27,13 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:sruthiganesh05@gmail.com" target="blank" style="display: inline-block;">
-    <img src="https://cdn-icons-png.flaticon.com/128/10829/10829119.png" height="30" alt="gmail logo" />
+    <img align="left" src="https://cdn-icons-png.flaticon.com/128/10829/10829119.png" height="30" alt="gmail logo" />
   </a>
   <a href="https://www.hackerrank.com/sruthiganesh05" target="blank" style="display: inline-block;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sruthiganesh05" height="30" width="40" />
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sruthiganesh05" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/srug_05" target="blank" style="display: inline-block;">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srug_05" height="30" width="40" />
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srug_05" height="30" width="40" />
   </a>
 </p>
 
