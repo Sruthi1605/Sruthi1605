@@ -53,8 +53,8 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
   <a href="https://www.leetcode.com/srug_05" target="blank" style="display: inline-block;">
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srug_05" height="30" width="40" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user-profile/sruthig_05" target="blank" style="display: inline-block;">
-    <img align="left" src="https://static.geeksforgeeks.org/wp-content/themes/gfg/assets/images/gfg_100.png" alt="sruthig_05" height="30" width="30" />
+  <a href="https://www.geeksforgeeks.org/user/sruthig_05/" target="blank" style="display: inline-block;">
+    <img align="left" src="https://img.icons8.com/?size=100&id=AbQBhN9v62Ob&format=png&color=000000" alt="sruthig_05" height="30" width="30" />
   </a>
 </p>
 
