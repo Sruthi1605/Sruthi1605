@@ -11,6 +11,7 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40">
+  <img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" alt="java" width="40" height="40" >
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40">
   
   <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" alt="html" width="40" height="40">
