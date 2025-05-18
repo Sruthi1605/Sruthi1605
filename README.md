@@ -18,7 +18,8 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40">
+  <img src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" alt="WordPress" width="40" height="40">
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="WordPress" width="40" height="40">
 </p>
 
 
