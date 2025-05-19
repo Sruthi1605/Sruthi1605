@@ -20,6 +20,7 @@ Hello there! I'm Sruthi G, a passionate pre-final year BE student specializing i
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40">
   <img src="https://img.icons8.com/?size=100&id=13664&format=png&color=000000" alt="WordPress" width="40" height="40">
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="WordPress" width="40" height="40">
+  <img src="https://cdn-icons-png.freepik.com/256/5968/5968520.png?semt=ais_hybrid" alt="WordPress" width="40" height="40">
 </p>
 
 
