@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev" aria-label="Languages and Tools">
-    <img src="https://skillicons.dev/icons?i=c,py,java,html,css,js,bootstrap,react,vite,mysql,mongodb,django,git,figma,ps,wordpress" />
+    <img src="https://skillicons.dev/icons?i=c,py,java,html,css,js,bootstrap,react,vite,mysql,mongodb,git,figma,ps,wordpress" />
   </a>
 </p>
 
